@@ -605,11 +605,11 @@ span.example-detail code, .example-steps code {
 }
 
 .comments-header-title {
-    word-wrap: break-word;
-    word-break: break-word;
-    width: 80px;
-    display: inline-block;
-    vertical-align: middle;
+    word-wrap: keep-all;
+    word-break: keep-all;
+    width: unset;
+    display: inline;
+    vertical-align: auto;
     margin-left: 5px;
 }
 
@@ -620,8 +620,8 @@ span.example-detail code, .example-steps code {
     padding: .2em .3em .2em .3em;
     border-radius: var(--border-radius-t-manager);
     margin-bottom: 5px;
-    height: 50px;
-    width: 170px;
+    height: unset;
+    width: unset;
 }
 
 .quick-templates-title .fa-clipboard {
