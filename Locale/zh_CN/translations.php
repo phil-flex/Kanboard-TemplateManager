@@ -74,7 +74,7 @@ return array(
   'Topic' => '主題',
   'e.g. General' => '例如：一般',
   'Topics can help group and label similar templates' => '主題可幫助對類似模板進行分組和標記',
-  'Note' => '',
+  'Note' => '筆記',
   'This note has specific instructions' => '本說明有具體說明',
   'Add a short note to describe this template' => '添加簡短說明以描述此模板',
   'Instructions' => '說明',
